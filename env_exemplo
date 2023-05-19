@@ -1,0 +1,9 @@
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+FROM_NAME=Nome do Email
+USER_NAME=meu_email@gmail.com
+USER_PASSWORD=minha_senha
+SUBJECT=Titulo do Email
+ODS_FILE=list.ods
+MSG_FILE=message.html
+RECONNECT_ON=10
